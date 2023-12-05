@@ -22,6 +22,7 @@ width="120" height="120">
 - Retrofit2
 - JTS
 
+## Features
 건너볼래? 에서는 :
 - 주변 횡단보도 방향, 위치 안내
 - 음향신호기 고장 신고
