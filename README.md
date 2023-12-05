@@ -1,8 +1,13 @@
 
 # 건너볼래? - 시각장애인을 위한 횡단보도 안내 앱
 
+<img src="https://github.com/gojungparkjo/geonneobolrae/assets/86652565/5a6c8220-7ad7-4847-bfe2-5cf0cadcb918" align="left"
+width="120" height="120">
 '건너볼래?' 는 사용자의 위치를 기반으로 하여 주변 횡단보도의 방향 및 거리를 음성으로 안내하는 어플리케이션입니다.
 교통안전시설물관리시스템(TGIS)과 Tmap 레이블링 서비스을 활용하였고, 사용자 UI를 고려하여 삼성 TalkBack 기능 사용을 전제로 하였습니다.
+<br/>
+<br/>
+
 
 ## Skill Stack
 - Kotlin
